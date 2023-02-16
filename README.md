@@ -8,9 +8,11 @@
 
 ### My technology stack is:
 
-|          Java           | Selenide | Gradle | Junit5 |  Jenkins | Allure Report | Allure Testops | IntelliJ IDEA |
-|:-----------------------:|:----:|:------:|:------:|:-------------:|:---------:|:---------:|:--------:|
-| ![Java](icons/Java.png) | ![Selenide](icons/Selenide.png) | ![Gradle](icons/Gradle.png) | ![JUnit5](icons/JUnit5.png) |  ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) | ![Intelij_IDEA](icons/Intelij_IDEA.png) |
+|                  Java                   |             Selenide              |              Gradle               |             Junit5             |            Jenkins            | Allure Report | Allure Testops |                                 IntelliJ IDEA                                 |
+|:---------------------------------------:|:---------------------------------:|:---------------------------------:|:------------------------------:|:-----------------------------:|:---------:|:---------:|:-----------------------------------------------------------------------------:|
+|         ![Java](icons/Java.png)         |  ![Selenide](icons/Selenide.png)  |    ![Gradle](icons/Gradle.png)    |  ![JUnit5](icons/JUnit5.png)   | ![Jenkins](icons/Jenkins.png) | ![Allure Report](icons/Allure_Report.png) | ![AllureTestOps](icons/AllureTestOps.png) |                    ![Intelij_IDEA](icons/Intelij_IDEA.png)                    |
+|              Browserstack               |              Appium               |          Android studio           |            Selenium            |            GitHub             |                 |                     |                                                           |
+| ![Browserstack](icons/Browserstack.svg) |       ![](icons/appium.png)       |   ![](icons/Android-studio.svg)   |     ![](icons/Selenium.png)    |     ![](icons/GitHub.svg)     |                                           |                                         |
 
 
 ![Alekseibulatov's github stats](https://github-readme-stats.vercel.app/api?username=alekseibulatov&show_icons=true&theme=radical)
